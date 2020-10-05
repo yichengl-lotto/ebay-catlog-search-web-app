@@ -1,0 +1,22 @@
+{
+  "name": "hw8-back",
+  "version": "1.0.0",
+  "main": "hw8-back.js",
+  "scripts": {
+    "start": "node hw8-back.js"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "private": true,
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
